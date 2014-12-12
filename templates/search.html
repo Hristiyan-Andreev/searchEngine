@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Epic search</title>
+</head>
+<body>
+    {%for page in pages%}
+        <a href="{{page.url}}">{{page.title}}</a>
+    <p>{{page.url}}
+    {{page.description}}</p>
+    {%endfor%}
+</body>
+</html>

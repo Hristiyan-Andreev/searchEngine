@@ -1,0 +1,10 @@
+h1 {
+    color: #9A9619;
+}
+
+#header {
+    border-style: solid;
+    border-spacing: 2.5;
+    background-position: top left;
+    background-image: url("http://fc05.deviantart.net/fs71/f/2013/038/f/2/hobbit_by_kaioshen-d5u67e4.jpg");
+}
